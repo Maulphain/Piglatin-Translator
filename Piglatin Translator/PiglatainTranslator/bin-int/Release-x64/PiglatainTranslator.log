@@ -1,0 +1,6 @@
+﻿  Application.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 193 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PiglatainTranslator.vcxproj -> C:\devProgrammes\PiglatainTranslator\bin\Release-x64\PiglatainTranslator.exe
